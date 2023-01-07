@@ -1,0 +1,75 @@
+.banner{
+    position: relative;
+    margin: 0 auto;
+}
+.banner-text{
+    position: absolute;
+    top: 170px;
+    right:90px ;
+    color: white;
+    font-size: 125%;
+}
+#heading-text{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.button{
+    background-color: brown;
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: 900;
+    color: white;
+}
+#Summary{
+    display: flex;
+    width: 75%;
+    margin-left: 150px;
+    margin-top: 60px;
+    margin-right: 20px;
+}
+#image-margin{ 
+    margin-right: 20px;
+}
+#text-margin{
+    margin-top: 140px;
+    margin-left: 40px;
+}
+#My-Plans{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+}
+#my-plan{
+    display: flex;
+    margin-left: 10px;
+}
+.plan{
+    margin-left: 10px;
+}
+.plan-text{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ #style-text{ 
+    color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+#container{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 100px;
+    margin-left: 25px;
+}
+#inputFild{
+    padding: 12px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
+.footer-section{
+    margin-left: 100px;
+}
